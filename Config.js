@@ -3,18 +3,18 @@ const chalk = require('chalk');
 require('dotenv').config();
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "919931122319"],
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.ownernumber = [ process.env.OWNER_NUMBER || "27692570960"],
+global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘BOB𓆪_✰",
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "South Africa"
 
-global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
+global.botname = process.env.BOTNAME || "BOB-MD",//name of the bot
 
 //sticker details
 global.stickername = process.env.STICKER || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
 global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.author = process.env.AUTHOR || "Made by 💙𓆩‎✘BOB𓆪_✰",
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
@@ -41,13 +41,13 @@ global.autoread_status = false //auto view status/story
 global.mess = {
     done: '🍭 *Here you go, darling!* ',
     prem: '🍭 *My darling, this feature is reserved for premium users only*',
-    admin: '🍭 *My darling, this feature is reserved for admins only*',
+    admin: '🍭 *Jy you idiot, this feature is reserved for admins only*',
     botAdmin: '🍭 *Darling, this feature can only be used when the bot is a group admin* ',
-    owner: '🍭 *My dearest, this feature is reserved for the owner only*',
+    owner: '🍭 *Jy you idiot, this feature is reserved for the owner only*',
     group: '🍭 *Sweetheart, this feature is exclusively for groups*',
     private: '🍭 *My love, this feature is exclusively for private chats*',
     wait: '🍭 *Darling, in process...* ',    
-    error: '🍭 *Oh darling, there seems to be an error!*',
+    error: '🍭 *Jeepers man, there seems to be an error!*',
 }
 
 module.exports = {
